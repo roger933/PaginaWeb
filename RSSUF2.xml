@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Mi canal de RSS</title>
+		<link>https://github.com/roger933/PaginaWeb.git</link>
+		<description>Noticias en general</description>
+		<item>
+			<title>Noticias del Pais</title>
+			<link>https://elpais.com/</link>
+			<description>Noticias sobre el pais</description>
+		</item>
+		<item>
+			<title>Noticias de el Mundo</title>
+			<link>https://www.elmundo.es/</link>
+			<description>Noticias sobre el pais</description>
+		</item>
+		<item>
+			<title>Noticias de AS</title>
+			<link>https://as.com/</link>
+			<description>Noticias sobre deportes</description>
+		</item>
+		<item>
+			<title>Noticias de Marca</title>
+			<link>https://www.marca.com/</link>
+			<description>Noticias sobre deportes</description>
+		</item>
+		<item>
+			<title>Noticias de El Mundo Deportivo</title>
+			<link>https://www.mundodeportivo.com/</link>
+			<description>Noticias sobre deportes</description>
+		</item>
+	</channel>
+</rss>	
